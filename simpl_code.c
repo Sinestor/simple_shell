@@ -7,6 +7,6 @@
 
 int main(void)
 {
-        printf("hey!! Buddy, what's your name!:");
-        return (0);
+	printf("hey!! Buddy, what's your name!:");
+	return (0);
 }
